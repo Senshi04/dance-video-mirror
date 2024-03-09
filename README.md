@@ -1,1 +1,3 @@
-# dance-video-mirror
+# Dance Video Mirror
+
+### Program not yet finished !!!
